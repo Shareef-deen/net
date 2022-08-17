@@ -1,0 +1,7 @@
+/home/runner/SecondaryExtrasmallScientists/new/obj/Debug/net6.0/new.csproj.AssemblyReference.cache
+/home/runner/SecondaryExtrasmallScientists/new/obj/Debug/net6.0/new.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/SecondaryExtrasmallScientists/new/obj/Debug/net6.0/new.AssemblyInfoInputs.cache
+/home/runner/SecondaryExtrasmallScientists/new/obj/Debug/net6.0/new.AssemblyInfo.cs
+/home/runner/SecondaryExtrasmallScientists/new/obj/Debug/net6.0/new.csproj.CoreCompileInputs.cache
+/home/runner/SecondaryExtrasmallScientists/new/obj/Debug/net6.0/new.MvcApplicationPartsAssemblyInfo.cs
+/home/runner/SecondaryExtrasmallScientists/new/obj/Debug/net6.0/new.MvcApplicationPartsAssemblyInfo.cache
